@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IntegratedSystemsExamDatabase/True/SqlTable/dbo.Vaccines.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IntegratedSystemsExamDatabase/True/SqlTable/dbo.Patients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IntegratedSystemsExamDatabase/True/SqlTable/dbo.VaccinationCenters.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.web\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.web\\views\\vaccinationcenters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.web\\views\\vaccinationcenters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.service\\implementation\\vaccinationcenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\implementation\\vaccinationcenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.domain\\domain models\\vaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\domain models\\vaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.domain\\domain models\\vaccinationcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\domain models\\vaccinationcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.service\\implementation\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\implementation\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.service\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.service\\interface\\ivaccinationcenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\interface\\ivaccinationcenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.web\\controllers\\vaccinationcenterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\controllers\\vaccinationcenterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.repository\\integratedsystems.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\integratedsystems.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.domain\\domain models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\domain models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.repository\\migrations\\20240408232639_addedinitialdomainmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\migrations\\20240408232639_addedinitialdomainmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160547_UpdateVaccineTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IntegratedSystemsExamDatabase/True/SqlTable/dbo.__EFMigrationsHistory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160325_UpdateVaccineTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|c:\\users\\pance\\desktop\\integratedsystemsexam\\integratedsystems.domain\\identity models\\integratedsystemsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\identity models\\integratedsystemsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.VaccinationCenters [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IntegratedSystemsExamDatabase/True/SqlTable/dbo.VaccinationCenters.sql",
+              "ToolTip": "dbo.VaccinationCenters [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-17T11:28:00.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Patients [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IntegratedSystemsExamDatabase/True/SqlTable/dbo.Patients.sql",
+              "ToolTip": "dbo.Patients [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-17T11:27:57.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Vaccines [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IntegratedSystemsExamDatabase/True/SqlTable/dbo.Vaccines.sql",
+              "ToolTip": "dbo.Vaccines [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-17T11:27:55.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T11:26:45.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowEsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T11:23:38.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Index.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T11:23:25.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VaccinationCenterService.cs",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Service\\Implementation\\VaccinationCenterService.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Implementation\\VaccinationCenterService.cs",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Service\\Implementation\\VaccinationCenterService.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Implementation\\VaccinationCenterService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:57:30.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vaccine.cs",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Domain Models\\Vaccine.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\Domain Models\\Vaccine.cs",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Domain Models\\Vaccine.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\Domain Models\\Vaccine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:40:05.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Web\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Web\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "IntegratedSystems.Web\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:11:36.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VaccinationCenter.cs",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Domain Models\\VaccinationCenter.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\Domain Models\\VaccinationCenter.cs",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Domain Models\\VaccinationCenter.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\Domain Models\\VaccinationCenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:41:40.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Web\\Program.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Web\\Program.cs",
+              "RelativeToolTip": "IntegratedSystems.Web\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:07:39.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:38:56.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Service\\Implementation\\PatientService.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Implementation\\PatientService.cs",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Service\\Implementation\\PatientService.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Implementation\\PatientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:08:23.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:07:47.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IVaccinationCenterService.cs",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Service\\Interface\\IVaccinationCenterService.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Interface\\IVaccinationCenterService.cs",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Service\\Interface\\IVaccinationCenterService.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Interface\\IVaccinationCenterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:56:14.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:38:55.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VaccinationCentersController.cs",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Web\\Controllers\\VaccinationCentersController.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Controllers\\VaccinationCentersController.cs",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Web\\Controllers\\VaccinationCentersController.cs",
+              "RelativeToolTip": "IntegratedSystems.Web\\Controllers\\VaccinationCentersController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAwwG0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:56:50.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IntegratedSystems.Repository",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj",
+              "RelativeToolTip": "IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T10:57:17.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:43:38.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240408232639_AddedInitialDomainModels.cs",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408232639_AddedInitialDomainModels.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\Migrations\\20240408232639_AddedInitialDomainModels.cs",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408232639_AddedInitialDomainModels.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\Migrations\\20240408232639_AddedInitialDomainModels.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:26:39.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240408160547_UpdateVaccineTable.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160547_UpdateVaccineTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160547_UpdateVaccineTable.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160547_UpdateVaccineTable.cs",
+              "RelativeToolTip": "..\\..\\..\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160547_UpdateVaccineTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:05:47.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dbo.__EFMigrationsHistory [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IntegratedSystemsExamDatabase/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "ToolTip": "dbo.__EFMigrationsHistory [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-08T16:05:22.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Web\\appsettings.json",
+              "RelativeToolTip": "IntegratedSystems.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T16:04:04.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240408160325_UpdateVaccineTable.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160325_UpdateVaccineTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160325_UpdateVaccineTable.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160325_UpdateVaccineTable.cs",
+              "RelativeToolTip": "..\\..\\..\\dimit\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Migrations\\20240408160325_UpdateVaccineTable.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:03:25.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:50:31.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Web\\appsettings.Development.json",
+              "RelativeToolTip": "IntegratedSystems.Web\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T16:16:05.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IntegratedSystemsUser.cs",
+              "DocumentMoniker": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Identity Models\\IntegratedSystemsUser.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\Identity Models\\IntegratedSystemsUser.cs",
+              "ToolTip": "C:\\Users\\PANCE\\Desktop\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Identity Models\\IntegratedSystemsUser.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\Identity Models\\IntegratedSystemsUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:38:38.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
